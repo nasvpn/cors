@@ -1,6 +1,6 @@
-const APP_NAME = "cors.ryanking13"
-const HOSTNAME = "CORS_RYANKING13_WORKERS_DEV"
-const APP_KEY = "62492b64742400257938bd440f99a50f"
+const APP_NAME = "sooka.riwatn"
+const HOSTNAME = "sooka.riwatn.workers.dev"
+const APP_KEY = "41e06d6781f4deafbdc3d91145faf962"
 
 
 async function handleRequest(request) {
